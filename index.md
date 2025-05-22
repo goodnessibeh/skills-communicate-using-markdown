@@ -13,3 +13,7 @@ Welcome to my markdown learning journey!
 ###### The Smallest Header
 
 ![Chelsea log](https://th.bing.com/th/id/OIP.0uJD4BrLDq5-rX8xx0viUQHaEK?cb=iwc2&pid=ImgDet&w=474&h=266&rs=1)
+
+``` javascript
+var myVar = "Hello, This is a code block";
+```
