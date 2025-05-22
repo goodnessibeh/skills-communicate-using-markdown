@@ -17,3 +17,6 @@ Welcome to my markdown learning journey!
 ``` javascript
 var myVar = "Hello, This is a code block";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
